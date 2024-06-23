@@ -1,14 +1,12 @@
 import requests
-import json
+
 import time
 from colorama import init, Fore, Style
 import sys
 import os
 init(autoreset=True)
-import random
 import requests
-import re
-from bs4 import BeautifulSoup
+
 
 
 def print_welcome_message():
