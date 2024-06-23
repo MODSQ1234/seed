@@ -20,6 +20,8 @@ Install with python
 ## Features
 - Auto Upgrade
 - Auto Claim 
+- Auto Clear Task
+- Auto Catch Worms
 - Multi Account
 
 ## Screenshots
